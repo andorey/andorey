@@ -10,5 +10,5 @@
 ![Python](http://img.shields.io/badge/-Python-393939?style=for-the-badge&logo=Python&logoColor=00F515)
 ![React](http://img.shields.io/badge/-React-393939?style=for-the-badge&logo=React&logoColor=00DBFF)
 ![Redux](http://img.shields.io/badge/-Redux-393939?style=for-the-badge&logo=Redux&logoColor=DD7FFF)
-![node](http://img.shields.io/badge/-Framework-393939?style=for-the-badge&logo=node&logoColor=D2FF79)
-![.frontend](http://img.shields.io/badge/-Developer-393939?style=for-the-badge&logo=.frontend&logoColor=eeeeee)
+![NodeJS](http://img.shields.io/badge/-Framework-393939?style=for-the-badge&logo=NodeJS&logoColor=D2FF79)
+![appveyor](http://img.shields.io/badge/-Developer-393939?style=for-the-badge&logo=appveyor&logoColor=eeeeee)
