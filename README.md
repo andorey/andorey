@@ -10,5 +10,5 @@
 ![Python](http://img.shields.io/badge/-Python-393939?style=for-the-badge&logo=Python&logoColor=00F515)
 ![React](http://img.shields.io/badge/-React-393939?style=for-the-badge&logo=React&logoColor=00DBFF)
 ![Redux](http://img.shields.io/badge/-Redux-393939?style=for-the-badge&logo=Redux&logoColor=DD7FFF)
-![Node](http://img.shields.io/badge/-Framework-393939?style=for-the-badge&logo=Nodek&logoColor=D2FF79)
-![.net](http://img.shields.io/badge/-Developer-393939?style=for-the-badge&logo=.net&logoColor=eeeeee)
+![node](http://img.shields.io/badge/-Framework-393939?style=for-the-badge&logo=node&logoColor=D2FF79)
+![.frontend](http://img.shields.io/badge/-Developer-393939?style=for-the-badge&logo=.frontend&logoColor=eeeeee)
