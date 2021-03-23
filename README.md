@@ -12,4 +12,4 @@
 ![Redux](http://img.shields.io/badge/-Redux-393939?style=for-the-badge&logo=Redux&logoColor=DD7FFF)
 ![Node](http://img.shields.io/badge/-Framework-393939?style=for-the-badge&logo=Node&logoColor=D2FF79)
 ![appveyor](http://img.shields.io/badge/-Developer-393939?style=for-the-badge&logo=appveyor&logoColor=eeeeee)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andorey)](http://github.com/andorey/github-redme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?&hide=stars,prs,issues,contribs&username=andorey)](http://github.com/andorey/github-redme-stats)
